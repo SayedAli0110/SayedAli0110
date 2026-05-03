@@ -1,40 +1,36 @@
-# 👋 Hi, my name is Sayed or as i preferd Ivan
-I’m a passionate junior developer with a strong foundation in problem-solving and a mindset focused on building things the right way—not just making them work.
-I approach problems by first understanding them deeply, then breaking them down using a **divide-and-conquer strategy**. I believe that a well-designed plan leads to clean, maintainable code—and that fixing a design early is far more efficient than fixing issues later.
-I started my journey with **C++**, building a solid understanding of programming fundamentals and OOP.  
-Currently, I’m expanding into the **.NET ecosystem using C#** and diving into **database systems with SQL Server**.
+# 👋 Hi, I'm Sayed (Ivan)
+
+Junior developer passionate about building things the right way—not just making them work.  
+I focus on understanding problems deeply, then solving them using structured thinking and a divide-and-conquer approach.
+
+Started with **C++** (strong foundation in OOP & fundamentals), and currently expanding into **C# (.NET)** and **SQL Server**.
 
 ---
 
-## 💻 Technical Skills
+## 💻 Skills
 
-### 🧑‍💻 Languages
-- C++ (Strong)
+**Languages:**  
+- C++ (Strong)  
 - C# (.NET) (Learning)
 
-### 🧠 Core Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures & Problem Solving
-- File Handling & Streams
-- Debugging & Logical Thinking
+**Core Concepts:**  
+- OOP, Data Structures  
+- File Handling & Debugging  
+- Problem Solving
 
-### 🛠️ Tools & Technologies
-- Git & GitHub
-- Windows Forms
+**Tools:**  
+- Git & GitHub  
+- Windows Forms  
 - SQL Server (Learning)
 
 ---
 
 ## 🧠 Mindset
+- Understand *why* code works, not just *that* it works  
+- Plan before coding  
+- Persistent problem-solver  
 
-- I don’t stop at “it works”—I aim to understand *why it works*
-- Strong problem-solving using structured thinking
-- Persistent when debugging (I don’t leave problems unsolved)
-- Planning-first approach to reduce complexity and errors
-  
 ---
 
 ## ⚡ Fun Fact
-I love seeking for (HOW SOMTING IS BUILT) , so In my free time, I’m always building something new or fixing something I previously broke.
-
----
+I enjoy breaking down how things are built—so I’m always building or fixing something.
