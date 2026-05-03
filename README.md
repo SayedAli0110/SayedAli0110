@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sayed (Ivan)
+# About Me 
 
-Junior developer passionate about building things the right way—not just making them work.  
+Hi, I'm sayed or as i prefer ( Ivan ); Junior developer passionate about building things the right way—not just making them work.  
 I focus on understanding problems deeply, then solving them using structured thinking and a divide-and-conquer approach.
 
 Started with **C++** (strong foundation in OOP & fundamentals), and currently expanding into **C# (.NET)** and **SQL Server**.
